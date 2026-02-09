@@ -1,1 +1,1 @@
-# LSTM Prediction API
+# LSTM Stock Price Prediction API
